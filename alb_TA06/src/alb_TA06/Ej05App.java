@@ -4,6 +4,7 @@ public class Ej05App {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//pon el numero que quieras en binario aqui
 		int res = 64;
 		System.out.println(numABinario(res));
 	}
